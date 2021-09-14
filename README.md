@@ -124,3 +124,8 @@ docker ps -all (all containers)
 docker stop [NAME] (stop a container that is running)
 docker restart [NAME] (restart stopped container)
 docker rm [NAME] (remove a container)
+
+## Future steps:
+
+Automated testing
+CI/CD
